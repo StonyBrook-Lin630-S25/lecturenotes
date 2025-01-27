@@ -22,3 +22,6 @@
 !pdf/*.pdf
 !build/
 !build/**/
+graf.bib
+linquiry3.bst
+universal.bib
